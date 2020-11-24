@@ -1,6 +1,6 @@
 # NODE-JS-CFBYPASS-PROXY
 <h2>How to Install</h2>
-  To install if you are running linux or mac, type:
+  To install if you are running linux type:
 <pre>apt install nodejs</pre>
 <pre>apt install npm</pre> 
 <pre>npm i cloudscraper random-useragent crypto-random-string cluster request</pre>  
